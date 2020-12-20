@@ -1,0 +1,32 @@
+* {
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+a {
+    font-size: 1.6rem;
+    color: #e0e0e0;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #c0c0c0;
+}
+
+ul {
+    list-style-type: none;
+    background-color: rgb(12, 35, 66);
+    color: #e0e0e0;
+    font-size: 1.6rem;
+    padding: 20px 0;
+    max-width: 280px;
+    text-align: center;
+    margin: auto;
+}
+
+li {
+    text-align: center;
+}
+
+.main-container {
+    text-align: center;
+}
